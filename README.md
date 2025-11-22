@@ -1,4 +1,5 @@
-# AI-Based-Traffic-Management-SIH
+# AI-Based-Traffic-Management
+
 An AI based traffic management system with real-time monitoring
 
 ## 🗒️ Overview
